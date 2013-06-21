@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: grazie_dev
+
+test:
+  adapter: postgresql
+  database: grazie_test

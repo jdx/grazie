@@ -1,0 +1,4 @@
+form = view Ember.TextField valueBinding="newGratitude" action="addGratitude"
+ul
+  each gratitude in model
+    li = gratitude.body

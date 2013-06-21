@@ -1,0 +1,4 @@
+.row
+  .large-10.columns
+    h1 Grazie
+    div= outlet
