@@ -19,6 +19,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'ember-rails'
 gem 'ember-source', '1.0.0.rc5'
+gem 'handlebars-source', '1.0.0.rc4'
 gem 'emblem-rails'
 
 gem 'zurb-foundation'

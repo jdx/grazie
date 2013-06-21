@@ -135,6 +135,7 @@ DEPENDENCIES
   ember-rails
   ember-source (= 1.0.0.rc5)
   emblem-rails
+  handlebars-source (= 1.0.0.rc4)
   jquery-rails
   pg
   rails (= 4.0.0.rc2)
