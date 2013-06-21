@@ -1,4 +1,4 @@
-form = view Ember.TextField valueBinding="newGratitude" action="addGratitude"
+form = view Ember.TextField valueBinding="newGratitude" action="addGratitude" maxLength="160"
 ul
   each gratitude in model
     li = gratitude.body
